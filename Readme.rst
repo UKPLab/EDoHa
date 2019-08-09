@@ -83,3 +83,17 @@ The database $DB, username $DB_USER, and $DB_PASSWORD have to be set in advance.
 During the first startup, EDoHa will create an admin user with the username password combination admin/admin.
 The admin can then create users, projects, upload documents into projects, and add the settings for the machine learning components in the EDoHa Settings page.
 The EDoHa specific settings are the pre-trained models, the lengths of sentences and titles the pre-trained models expect, and parameters, such as batch size and number of epochs.
+
+Cite
+----
+
+:: 
+
+   @inproceedings{Stahlhut:CombattingDisinformationInteractive-2019,
+     address = {{London, UK}},
+     title = {Combatting {{Disinformation}} via {{Interactive Evidence Detection}}},
+     booktitle = {Proceedings of the First {{Conference}} on {{Truth}} and {{Trust Online}}},
+     author = {Stahlhut, Chris},
+     month = oct,
+     year = {2019}
+   }
