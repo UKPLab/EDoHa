@@ -19,7 +19,7 @@
 		<inception.version>0.4.1</inception.version>
 		<dl4j.version>1.0.0-beta3</dl4j.version>
 		<tf.version>1.12.0</tf.version>
-		<jackson.version>2.9.4</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 		<uima.version>2.10.2</uima.version>
 		<uimafit.version>2.4.0</uimafit.version>
 		<spring.version>5.0.7.RELEASE</spring.version>
